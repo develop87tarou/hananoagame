@@ -1,4 +1,5 @@
 #初心者だから変なコードだと思う
+#8/4なんか書いとく
 import random
 imada = 50
 kougeki = 0
